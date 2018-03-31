@@ -1,0 +1,5 @@
+name: Nem決済拡張プラグイン
+code: NemPaymentExtension
+version: 1.0.0
+service:
+    - ServiceProvider
